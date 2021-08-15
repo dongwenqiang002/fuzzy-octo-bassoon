@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://cdb-dsn5ac6n.gz.tencentcdb.com:10075/xxx?useUnicode=true&characterEncoding=utf8&userSSL=false
+    username: root
+    password: agamotto123
